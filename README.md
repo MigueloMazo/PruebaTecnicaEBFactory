@@ -7,7 +7,6 @@ Instalación y ejecución
 
 1. Clonar el repositorio
    git clone https://github.com/MigueloMazo/PruebaTecnicaEBFactory.git
-   cd juego-parejas
 
 2. Backend (Node + Express)
    El backend entrega las cartas mezcladas.
